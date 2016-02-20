@@ -1,5 +1,5 @@
 # Pull base image.
-FROM docker_ubuntubase
+FROM projectwebdev/ubuntu-base
 
 ENV DEBIAN_FRONTEND noninteractive
 
